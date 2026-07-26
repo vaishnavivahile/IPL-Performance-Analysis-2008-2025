@@ -2,8 +2,6 @@
 
 An end-to-end data analytics project analyzing 18 seasons of IPL data — from raw, messy datasets to a fully interactive 6-page Power BI dashboard.
 
-![Overview Page](images/Overview%20Page.png)
-
 ## Project Overview
 
 This project explores team performance, batting and bowling trends, and historical records across every IPL season from 2008 to 2025. It combines Python for data cleaning and exploratory analysis with Power BI for building the final interactive dashboard.
@@ -33,14 +31,27 @@ Before analysis, the raw data required several corrections:
 
 ## Dashboard Structure
 
-| Page | Description |
-|---|---|
-| **Overview** | Key stats, all-time top performers, team-level filtering |
-| **Team Performance** | Wins by team, toss impact, chasing vs. defending, season trends |
-| **Batting Insights** | Top run scorers, best batting venues, powerplay analysis |
-| **Bowling Insights** | Top wicket-takers, bowling style split, death-overs economy |
-| **Records & Awards** | Player of the Match leaders, IPL champions, all-time records |
-| **Player Profile** | Drill-through page with full career stats for any selected player |
+**1. Overview** — Key stats, all-time top performers, team-level filtering
+
+![Overview Page](images/Overview%20Page.png)
+
+**2. Team Performance** — Wins by team, toss impact, chasing vs. defending, season trends
+
+![Team Performance Page](images/Team%20Performance%20Page.png)
+
+**3. Batting Insights** — Top run scorers, best batting venues, powerplay analysis
+
+![Batting Page](images/Batting%20Page.png)
+
+**4. Bowling Insights** — Top wicket-takers, bowling style split, death-overs economy
+
+![Bowling Page](images/Bowling%20Page.png)
+
+**5. Records & Awards** — Player of the Match leaders, IPL champions, all-time records
+
+![Records Page](images/Records%20Page.png)
+
+**6. Player Profile** — Drill-through page with full career stats for any selected player
 
 ![Player Profile Page](images/Player%20Profile%20Page.png)
 
